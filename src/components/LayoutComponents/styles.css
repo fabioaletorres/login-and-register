@@ -4,7 +4,7 @@
     margin: 0 auto;
   }
   
-  .container-login {
+  .container-layout{
     width: 100%;
     min-height: 100vh;
     display: flex;
@@ -15,7 +15,7 @@
     background-color: #111;
   }
   
-  .wrap-login {
+  .wrap-layout {
     width: 390px;
     background-color: #333;
     border-radius: 10px;
